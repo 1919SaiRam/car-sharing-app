@@ -1,0 +1,71 @@
+VehicleDetails : {
+
+    { carOwner name id : 1 ,
+      Rent:1500 ,
+      Car model :[] ,
+      Availabilty :{} ,
+      booking details : [
+           Date :[ ],
+           Time :[ ],
+           Location Pickup :[],
+           Location Pickdown : [],
+
+      ],
+      Confirmation :{"yes" || "No"} 
+    },
+
+    { carOwner name id : 2 ,
+      Rent:2000 ,
+      Car model :[] ,
+      Availabilty :{} ,
+      booking details : [
+           Date :[ ],
+           Time :[ ],
+           Location Pickup :[],
+           Location Pickdown : [],
+
+      ],
+      Confirmation :{"yes" || "No"} 
+    } ,
+
+    { carOwner name id : 3 ,
+      Rent:3000 ,
+      Car model :[] ,
+      Availabilty :{} ,
+      booking details : [
+           Date :[ ],
+           Time :[ ],
+           Location Pickup :[],
+           Location Pickdown : [],
+
+      ],
+      Confirmation :{"yes" || "No"} 
+    },
+    { carOwner name id : 4 ,
+      Rent:5000 ,
+      Car model :[] ,
+      Availabilty :{} ,
+      booking details : [
+           Date :[ ],
+           Time :[ ],
+           Location Pickup :[],
+           Location Pickdown : [],
+
+      ],
+      Confirmation :{"yes" || "No"} 
+    },
+    { carOwner name id : 5 ,
+      Rent:2600 ,
+      Car model :[] ,
+      Availabilty :{} ,
+      booking details : [
+           Date :[ ],
+           Time :[ ],
+           Location Pickup :[],
+           Location Pickdown : [],
+
+      ],
+      Confirmation :{"yes" || "No"} 
+    }
+    
+}
